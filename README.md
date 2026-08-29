@@ -3,7 +3,7 @@
   <!--<img width="1750" height="484" alt="logo" src="https://github.com/user-attachments/assets/47b7e640-16fc-400f-bed6-23db005fe43c" />-->
 </p>
 
-Det här är ett fakturerings- och kundregisterprogram där man kan ha en databas med sina kunder och skriva fakturor till dem.
+Det här är en webbapp utvecklad och skräddarsydd från grunden åt ett företag där man har ett register med kunder och kan skriva fakturor till dessa.
 
 Detta projekt utvecklas kontinuerligt.
 
